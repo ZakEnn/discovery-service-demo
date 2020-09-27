@@ -1,4 +1,4 @@
-package com.easysign;
+package com.discovery;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
